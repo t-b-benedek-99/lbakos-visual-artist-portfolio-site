@@ -1,0 +1,18 @@
+#about {
+  background: url(./img/nagytemplom_impressionist_3.jpg);
+  background-size: cover;
+  height: fit-content;
+  background-attachment: fixed;
+  color: white;
+}
+
+.introduction-text {
+  background: rgba(0, 0, 0, 0.26);
+  height: 100vh;
+  padding-top: 10%;
+}
+
+/* .introduction-text > div {
+  padding-top: 25vh;
+  padding-bottom: 25vh;
+} */
