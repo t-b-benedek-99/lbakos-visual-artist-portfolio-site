@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2667ff9.chunk.css",
-    "main.js": "/static/js/main.aebae3db.chunk.js",
-    "main.js.map": "/static/js/main.aebae3db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.776ea739.js",
-    "runtime-main.js.map": "/static/js/runtime-main.776ea739.js.map",
-    "static/js/2.ced65e5b.chunk.js": "/static/js/2.ced65e5b.chunk.js",
-    "static/js/2.ced65e5b.chunk.js.map": "/static/js/2.ced65e5b.chunk.js.map",
-    "static/js/3.14e903e9.chunk.js": "/static/js/3.14e903e9.chunk.js",
-    "static/js/3.14e903e9.chunk.js.map": "/static/js/3.14e903e9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d2667ff9.chunk.css.map": "/static/css/main.d2667ff9.chunk.css.map",
-    "static/js/2.ced65e5b.chunk.js.LICENSE.txt": "/static/js/2.ced65e5b.chunk.js.LICENSE.txt",
-    "static/media/about-styles.css": "/static/media/nagytemplom_impressionist_3.6b98f3c9.jpg",
-    "static/media/self_black_and_white.acbcb0e2.jpg": "/static/media/self_black_and_white.acbcb0e2.jpg",
-    "static/media/contactus-styles.css": "/static/media/selyemakac_impressionism.5b7fcb7d.jpg"
+    "main.css": "/lbakos-visual-artist-portfolio-site/static/css/main.2662adc9.chunk.css",
+    "main.js": "/lbakos-visual-artist-portfolio-site/static/js/main.c81b5c5e.chunk.js",
+    "main.js.map": "/lbakos-visual-artist-portfolio-site/static/js/main.c81b5c5e.chunk.js.map",
+    "runtime-main.js": "/lbakos-visual-artist-portfolio-site/static/js/runtime-main.fce12463.js",
+    "runtime-main.js.map": "/lbakos-visual-artist-portfolio-site/static/js/runtime-main.fce12463.js.map",
+    "static/js/2.d8fe50a6.chunk.js": "/lbakos-visual-artist-portfolio-site/static/js/2.d8fe50a6.chunk.js",
+    "static/js/2.d8fe50a6.chunk.js.map": "/lbakos-visual-artist-portfolio-site/static/js/2.d8fe50a6.chunk.js.map",
+    "static/js/3.73d99852.chunk.js": "/lbakos-visual-artist-portfolio-site/static/js/3.73d99852.chunk.js",
+    "static/js/3.73d99852.chunk.js.map": "/lbakos-visual-artist-portfolio-site/static/js/3.73d99852.chunk.js.map",
+    "index.html": "/lbakos-visual-artist-portfolio-site/index.html",
+    "static/css/main.2662adc9.chunk.css.map": "/lbakos-visual-artist-portfolio-site/static/css/main.2662adc9.chunk.css.map",
+    "static/js/2.d8fe50a6.chunk.js.LICENSE.txt": "/lbakos-visual-artist-portfolio-site/static/js/2.d8fe50a6.chunk.js.LICENSE.txt",
+    "static/media/about-styles.css": "/lbakos-visual-artist-portfolio-site/static/media/nagytemplom_impressionist_3.6b98f3c9.jpg",
+    "static/media/self_black_and_white.acbcb0e2.jpg": "/lbakos-visual-artist-portfolio-site/static/media/self_black_and_white.acbcb0e2.jpg",
+    "static/media/contactus-styles.css": "/lbakos-visual-artist-portfolio-site/static/media/selyemakac_impressionism.5b7fcb7d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.776ea739.js",
-    "static/js/2.ced65e5b.chunk.js",
-    "static/css/main.d2667ff9.chunk.css",
-    "static/js/main.aebae3db.chunk.js"
+    "static/js/runtime-main.fce12463.js",
+    "static/js/2.d8fe50a6.chunk.js",
+    "static/css/main.2662adc9.chunk.css",
+    "static/js/main.c81b5c5e.chunk.js"
   ]
 }
