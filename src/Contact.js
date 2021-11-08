@@ -41,10 +41,12 @@ const Contact = () => {
     return (
         <>
             <div id="contactus" className="section">
-                <div className="row">
-                    <div className="col-12 bg-dark text-light text-center p-5">
-                        <h3>Get in touch</h3>
-                        <p>After checking my portfolio you want to get in touch? I can completely understand you, go ahead please...</p>
+                <div className="container-fluid">
+                    <div className="row">
+                        <div className="col-12 bg-dark text-light text-center p-5">
+                            <h3>Get in touch</h3>
+                            <p>After checking my portfolio you want to get in touch? I can completely understand you, go ahead please...</p>
+                        </div>
                     </div>
                 </div>
                 <div className="container">
