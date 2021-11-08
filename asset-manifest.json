@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lbakos-visual-artist-portfolio-site/static/css/main.2662adc9.chunk.css",
-    "main.js": "/lbakos-visual-artist-portfolio-site/static/js/main.c81b5c5e.chunk.js",
-    "main.js.map": "/lbakos-visual-artist-portfolio-site/static/js/main.c81b5c5e.chunk.js.map",
+    "main.js": "/lbakos-visual-artist-portfolio-site/static/js/main.f363710b.chunk.js",
+    "main.js.map": "/lbakos-visual-artist-portfolio-site/static/js/main.f363710b.chunk.js.map",
     "runtime-main.js": "/lbakos-visual-artist-portfolio-site/static/js/runtime-main.fce12463.js",
     "runtime-main.js.map": "/lbakos-visual-artist-portfolio-site/static/js/runtime-main.fce12463.js.map",
     "static/js/2.d8fe50a6.chunk.js": "/lbakos-visual-artist-portfolio-site/static/js/2.d8fe50a6.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.fce12463.js",
     "static/js/2.d8fe50a6.chunk.js",
     "static/css/main.2662adc9.chunk.css",
-    "static/js/main.c81b5c5e.chunk.js"
+    "static/js/main.f363710b.chunk.js"
   ]
 }
